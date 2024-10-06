@@ -3,9 +3,9 @@
 <h1 align="center">Hi There 👋, I'm Anirban Maitra</h1>
 <h3 align="center">I am a ML/DL Enthusiast and passionate Full Stack Developer from Indian Institute of Technology Jodhpur.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbeast-anirban&label=Profile%20views&color=0e75b6&style=flat" alt="mrbeast-anirban" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbeast-anirban&label=Profile%20views&color=e65a35&style=flat" alt="mrbeast-anirban"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban" alt="mrbeast-anirban" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban&margin-w=15&theme=monokai&no-bg=true" alt="mrbeast-anirban" /></a> </p>
 
 <p align="left"><a href="https://www.linkedin.com/in/maitraanirban" target="_blank"><img src="https://img.shields.io/badge/-Connect @ maitraanirban-blue?style=for-the-badge&logo=linkedin" alt="maitraanirban LinkedIn" /></a></p>
 
