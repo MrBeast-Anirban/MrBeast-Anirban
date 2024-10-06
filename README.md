@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban" alt="mrbeast-anirban" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anirbanmaitra11" target="blank"><img src="https://img.shields.io/twitter/follow/anirbanmaitra11?logo=twitter&style=for-the-badge" alt="anirbanmaitra11" /></a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/maitraanirban" target="_blank"><img src="https://img.shields.io/badge/-Connect @ maitraanirban-blue?style=for-the-badge&logo=linkedin" alt="maitraanirban LinkedIn" /></a></p>
 
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
