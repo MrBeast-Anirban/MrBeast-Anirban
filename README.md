@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I can fall asleep even after drinking coffee Ha Ha Ha...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Connections :</h3>
 <p align="left">
 <a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>
