@@ -57,8 +57,15 @@
 
 ![My Skills](https://skillicons.dev/icons?i=git,linux)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbeast-anirban&show_icons=true&locale=en&layout=compact" alt="mrbeast-anirban" /></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbeast-anirban&show_icons=true&locale=en&layout=compact" alt="mrbeast-anirban" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbeast-anirban&show_icons=true&locale=en" alt="mrbeast-anirban" /></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrbeast-anirban&show_icons=true&locale=en" alt="mrbeast-anirban" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbeast-anirban&" alt="mrbeast-anirban" /></p>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbeast-anirban" alt="mrbeast-anirban" />
+</div>
+
