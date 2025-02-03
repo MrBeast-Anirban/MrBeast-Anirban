@@ -21,41 +21,41 @@
 
 <h3 align="left">Social Connections :</h3>
 <p align="left">
-<a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mr_beast_1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_beast_1999" height="30" width="40" /></a>
+<a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>&emsp;
+<a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>&emsp;
+<a href="https://www.codechef.com/users/mr_beast_1999" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Wq4dyyhFKRz6&format=png&color=000000" alt="mr_beast_1999" height="40" width="40" /></a>&emsp;
 <a href="https://www.leetcode.com/anirban_maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirban_maitra" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools :</h3>
-<h4 align="left">Programming Languages :</h4>
+<h4 align="left">&emsp;Programming Languages :</h4>
 
-![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,c)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,c)
 
-<h4 align="left">Front-End Development :</h3>
+<h4 align="left">&emsp;Front-End Development :</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,bootstrap,react)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=html,css,angular,bootstrap,react)
 
-<h4 align="left">Back-End Development :</h4>
+<h4 align="left">&emsp;Back-End Development :</h4>
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,kafka)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=nodejs,express,kafka)
 
-<h4 align="left">Databases :</h3>
+<h4 align="left">&emsp;Databases :</h3>
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
-<h4 align="left">Ml and DL :</h3>
+<h4 align="left">&emsp;Ml and DL :</h3>
 
-![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
 
-<h4 align="left">Devops :</h4>
+<h4 align="left">&emsp;Devops :</h4>
 
-![My Skills](https://skillicons.dev/icons?i=aws,docker)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=aws,docker)
 
-<h4 align="left">Others :</h4>
+<h4 align="left">&emsp;Others :</h4>
 
-![My Skills](https://skillicons.dev/icons?i=git,linux)
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=git,linux)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbeast-anirban&show_icons=true&locale=en&layout=compact" alt="mrbeast-anirban" />
