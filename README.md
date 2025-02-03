@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **DSA, Computer Architecture, Operating Systems, Databases, and more........**
 
-- 📫 How to reach me **maitraanirban25@gmail.com**
+- 📫 Want to reach me Email at **maitraanirban25@gmail.com** or **m23csa005@iitj.ac.in**
 
 - ⚡ Fun fact **I can fall asleep even after drinking coffee Ha Ha Ha...**
 
