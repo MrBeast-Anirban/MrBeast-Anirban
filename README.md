@@ -1,11 +1,27 @@
+<!--- P R O F I L E   V I E W S   C O U N T E R S --->
+
+<img align="right" src="https://komarev.com/ghpvc/?username=mrbeast-anirban&label=Profile%20views&color=e65a35&style=flat"><br>
+
+<!--- P R O F I L E   B A N N E R --->
+<!-- banner from this website -> https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885 -->
 ![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-<h1 align="center">Hi There 👋, I'm Anirban Maitra</h1>
+<h1 align="center">
+  <img src="https://drive.google.com/file/d/1OCKLT5yoocUA_N2ophl1g43LfcbjBmfS/view?usp=drive_link">
+</h1>
+<!--- A N I M A T E D   T E X T --->
+
+<h1 align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=WhatsUp+Folks!;Welcome+to+my+Den"/>
+  </a>
+</h1>
+
+<h1 align="center">Anirban Maitra</h1>
 <h3 align="center">I am a ML/DL Enthusiast and passionate Full Stack Developer from Indian Institute of Technology Jodhpur.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbeast-anirban&label=Profile%20views&color=e65a35&style=flat" alt="mrbeast-anirban"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban&margin-w=15&theme=monokai&no-bg=true" alt="mrbeast-anirban" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban&margin-w=15&theme=monokai&no-bg=true" alt="mrbeast-anirban" /></a> </p> 
 
 <p align="left"><a href="https://www.linkedin.com/in/maitraanirban" target="_blank"><img src="https://img.shields.io/badge/-Connect @ maitraanirban-blue?style=for-the-badge&logo=linkedin" alt="maitraanirban LinkedIn" /></a></p>
 
