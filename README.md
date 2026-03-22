@@ -42,10 +42,11 @@
 <a href="https://www.leetcode.com/anirban_maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirban_maitra" height="30" width="40" /></a>
 </p>
 
+<!-- Add skills animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
 <h3 align="left">Languages and Tools :</h3>
