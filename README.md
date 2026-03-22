@@ -4,22 +4,21 @@
 
 <!--- P R O F I L E   B A N N E R --->
 <!-- banner from this website -> https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885 -->
-![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
-
 <h1 align="center">
-  <img src="https://drive.google.com/file/d/1OCKLT5yoocUA_N2ophl1g43LfcbjBmfS/view?usp=drive_link">
+  <img src="mario-banner.gif">
 </h1>
+
+
 <!--- A N I M A T E D   T E X T --->
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=WhatsUp+Folks!;Welcome+to+my+Den"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=WhatsUp+Folks!;Welcome+To+My+Den"/>
   </a>
 </h1>
 
 <h1 align="center">Anirban Maitra</h1>
-<h3 align="center">I am a ML/DL Enthusiast and passionate Full Stack Developer from Indian Institute of Technology Jodhpur.</h3>
-
+<h3 align="center">I am a Data Scientist studied Computer Science from Indian Institute of Technology ad soon going to be an AIML Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban&margin-w=15&theme=monokai&no-bg=true" alt="mrbeast-anirban" /></a> </p> 
 
@@ -43,6 +42,11 @@
 <a href="https://www.leetcode.com/anirban_maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirban_maitra" height="30" width="40" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 
 <h3 align="left">Languages and Tools :</h3>
 <h4 align="left">&emsp;Programming Languages :</h4>
@@ -72,6 +76,86 @@
 <h4 align="left">&emsp;Others :</h4>
 
 &emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=git,linux)
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/mrbeast-anirban">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/mrbeast-anirban/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mrbeast-anirban">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mrbeast-anirban&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mrbeast-anirban">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mrbeast-anirban&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mrbeast-anirban/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mrbeast-anirban">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=mrbeast-anirban&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbeast-anirban&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+
+
+
+
+
+
+
+
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbeast-anirban&show_icons=true&locale=en&layout=compact" alt="mrbeast-anirban" />
