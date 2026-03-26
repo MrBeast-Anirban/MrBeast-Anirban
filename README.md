@@ -5,7 +5,7 @@
 <!--- P R O F I L E   B A N N E R --->
 <!-- banner from this website -> https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885 -->
 <h1 align="center">
-  <img src="./coding.gif">
+  <img src="./programmer.gif">
 </h1>
 
 
