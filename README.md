@@ -8,7 +8,6 @@
   <img src="mario-banner.gif">
 </h1>
 
-
 <!--- A N I M A T E D   T E X T --->
 
 <h1 align="center">  
