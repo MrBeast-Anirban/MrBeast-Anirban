@@ -18,7 +18,7 @@
 </h1>
 
 <h1 align="center">Anirban Maitra</h1>
-<h3 align="center">I am a Data Scientist studied Computer Science from Indian Institute of Technology ad soon going to be an AIML Engineer.</h3>
+<h3 align="center">I am a Data Scientist, studied Computer Science from Indian Institute of Technology and soon going to be an AIML Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban&margin-w=15&theme=monokai&no-bg=true" alt="mrbeast-anirban" /></a> </p> 
 
