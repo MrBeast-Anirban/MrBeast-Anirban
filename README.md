@@ -31,7 +31,7 @@
 
 - 📫 Want to reach me Email at **maitraanirban25@gmail.com**
 
-- ⚡ Agenda of My Life:  **Learn something about everything and everything about something.**
+- ⚡ Agenda of my Life:  **Learn something about everything and everything about something.**
 
 <h3 align="left">Social Connections :</h3>
 <p align="left">
