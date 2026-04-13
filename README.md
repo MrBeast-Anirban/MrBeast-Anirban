@@ -26,7 +26,7 @@
 
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Agentic AI, LLM, and Flutter.**
+- 🌱 I’m currently learning about **Agentic AI, LLM, and Flutter.**
 
 - 💬 Ask me about **DSA, Computer Architecture, Operating Systems, Databases, Machine Learning, Deep Learning and more........**
 
