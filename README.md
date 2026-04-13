@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, LLM, and Flutter.**
 
-- 💬 Ask me about **DSA, Computer Architecture, Operating Systems, Databases, and more........**
+- 💬 Ask me about **DSA, Computer Architecture, Operating Systems, Databases, Machine Learning, Deep Learning and more........**
 
 - 📫 Want to reach me Email at **maitraanirban25@gmail.com**
 
