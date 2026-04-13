@@ -26,13 +26,13 @@
 
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Agentic AI, and Flutter.**
+- 🌱 I’m currently learning **Agentic AI, LLM, and Flutter.**
 
 - 💬 Ask me about **DSA, Computer Architecture, Operating Systems, Databases, and more........**
 
-- 📫 Want to reach me Email at **maitraanirban25@gmail.com** or **m23csa005@iitj.ac.in**
+- 📫 Want to reach me Email at **maitraanirban25@gmail.com**
 
-- ⚡ Fun fact **I can fall asleep even after drinking coffee Ha Ha Ha...**
+- ⚡ Agenda of My Life:  **Learn something about everything and everything about something.**
 
 <h3 align="left">Social Connections :</h3>
 <p align="left">
