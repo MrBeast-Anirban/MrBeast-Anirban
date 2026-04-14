@@ -39,7 +39,7 @@
 <h3 align="center">𝑰 𝒂𝒎 𝒂 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒔𝒕, 𝒔𝒕𝒖𝒅𝒊𝒆𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒆 𝒐𝒇 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒂𝒏𝒅 𝒔𝒐𝒐𝒏 𝒈𝒐𝒊𝒏𝒈 𝒕𝒐 𝒃𝒆 𝒂𝒏 𝑨𝑰/𝑴𝑳 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓.</h3>
 
 <!--Trophies Section-->   
-<h2 align="center">𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
+<h2 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</h2>
 <p align="center">
   <a href="https://github.com/mrbeast-anirban">
     <picture>
@@ -73,7 +73,7 @@ These need to be unloacked later
 
 - ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **𝑳𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈**.
 
-<h3 align="left">𝑺𝒐𝒄𝒊𝒂𝒍 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏𝒔 :</h3>
+<h3 align="left">𝐒𝐎𝐂𝐈𝐀𝐋 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒 :</h3>
 <p align="left">
 <a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>&emsp;
 <a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>&emsp;
@@ -88,7 +88,7 @@ These need to be unloacked later
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-<h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔 :</h3>
+<h3 align="left">𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒 :</h3>
 <h4 align="left">&emsp;Programming Languages :</h4>
 
 &emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,c)
@@ -121,12 +121,12 @@ These need to be unloacked later
 
 
 <!--Github stats Table--> 
-<h2 align="center">𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2>
+<h2 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</strong></h3>
+      <h3 align="center"><strong>𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mrbeast-anirban&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -134,7 +134,7 @@ These need to be unloacked later
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>𝑺𝒕𝒓𝒆𝒂𝒌 𝑺𝒕𝒂𝒕𝒔</strong></h3>
+      <h3 align="center"><strong>𝐒𝐓𝐑𝐄𝐀𝐊 𝐒𝐓𝐀𝐓𝐒</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mrbeast-anirban&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -144,7 +144,7 @@ These need to be unloacked later
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>𝑳𝒂𝒕𝒆𝒔𝒕 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</strong></h3>
+      <h3 align="center"><strong>𝐋𝐀𝐓𝐄𝐒𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban/storyblok-mcp-server">
           <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
@@ -152,7 +152,7 @@ These need to be unloacked later
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔</strong></h3>
+      <h3 align="center"><strong>𝐓𝐎𝐏 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍𝐒</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
           <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=mrbeast-anirban&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
@@ -164,7 +164,7 @@ These need to be unloacked later
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒓𝒂𝒑𝒉</h2>
+<h2 align="center">𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐏𝐇</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbeast-anirban&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
