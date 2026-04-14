@@ -1,14 +1,18 @@
-<!--- P R O F I L E   V I E W S   C O U N T E R S --->
+<!--- Profile Stats (Views, Stars, Followers) --->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=mrbeast-anirban&label=Profile%20views&color=e65a35&style=flat"><br>
+<p align="center">
+	<a href="https://github.com/mrbeast-anirban/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MrBeast-Anirban&label=Profile%20Views&color=red&style=flat"/></a>
+	<a href="https://github.com/mrbeast-anirban?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mrbeast-anirban"/></a>
+  	<a href="https://github.com/mrbeast-anirban?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mrbeast-anirban?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/></a>	
+</p>
 
-<!--- P R O F I L E   B A N N E R --->
+<!--- Profile Banner --->
 <!-- banner from this website -> https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885 -->
 <h1 align="center">
   <img src="mario-banner.gif">
 </h1>
 
-<!--- A N I M A T E D   T E X T --->
+<!--- Animated Text --->
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
@@ -186,4 +190,7 @@ These need to be unloacked later
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbeast-anirban" alt="mrbeast-anirban" />
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
 
