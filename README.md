@@ -15,19 +15,50 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=WhatsUp+Folks!;Welcome+To+My+Den"/>
   </a>
 </h1>
-<div align="center">
-    <a href="https://t.me/Saltam4" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/MyselfRachiit" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:RachitKrPal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/Render_GFX" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
 
 <h1 align="center">Anirban Maitra</h1>
 <h3 align="center">I am a Data Scientist, studied Computer Science from Indian Institute of Technology and soon going to be an AI/ML Engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrbeast-anirban&margin-w=15&theme=monokai&no-bg=true" alt="mrbeast-anirban" /></a> </p> 
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/mrbeast-anirban">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<!--
+These need to be unloacked later
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/mrbeast-anirban/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+-->
+<br />
 
-<p align="left"><a href="https://www.linkedin.com/in/maitraanirban" target="_blank"><img src="https://img.shields.io/badge/-Connect @ maitraanirban-blue?style=for-the-badge&logo=linkedin" alt="maitraanirban LinkedIn" /></a></p>
+
+<!-- Social Connections -->
+<div align="left">
+    <a href="https://www.linkedin.com/in/maitraanirban" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/musafiranirban" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:maitraanirban25@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://x.com/AnirbanMaitra11" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+    </a>
+</div>
 
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -84,26 +115,7 @@
 &emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=git,linux)
 
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/mrbeast-anirban">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=mrbeast-anirban&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/mrbeast-anirban/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
