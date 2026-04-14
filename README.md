@@ -62,9 +62,10 @@ These need to be unloacked later
 -->
 <br />
 
-
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<!-- Whats Going On --> 
+<h3 align="left">𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐒𝐓𝐀𝐓𝐔𝐒</h3>
 - 🌱 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 **𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, 𝑳𝑳𝑴, 𝒂𝒏𝒅 𝑭𝒍𝒖𝒕𝒕𝒆𝒓**.
  
 - 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 **𝑫𝑺𝑨, 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎𝒔, 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒎𝒐𝒓𝒆........**
@@ -73,7 +74,7 @@ These need to be unloacked later
 
 - ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **𝑳𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈**.
 
-<h3 align="left">𝐒𝐎𝐂𝐈𝐀𝐋 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒 :</h3>
+<h3 align="left">𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :</h3>
 <p align="left">
 <a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>&emsp;
 <a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>&emsp;
