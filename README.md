@@ -15,7 +15,7 @@
 <!--- Animated Text --->
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=𝑾𝒉𝒂𝒕𝒔𝑼𝒑+𝑭𝒐𝒍𝒌𝒔!;𝑾𝒆𝒍𝒄𝒐𝒎𝒆+𝑻𝒐+𝑴𝒚+𝑫𝒆𝒏"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=𝐖𝐡𝐚𝐭𝐬𝐔𝐩+𝐅𝐨𝐥𝐤𝐬!;𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐲+𝐃𝐞𝐧"/>
   </a>
 </h1>
 
@@ -192,6 +192,8 @@ These need to be unloacked later
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbeast-anirban" alt="mrbeast-anirban" />
 </div>
 
+<!-- End Note -->
+<p>𝑾𝒂𝒏𝒕 𝒕𝒐 𝒍𝒆𝒂𝒗𝒆 𝒎𝒆 𝒂 𝒎𝒆𝒔𝒔𝒂𝒈𝒆, 𝒋𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 <a href="https://github.com/mrbeast-anirban/mrbeast-anirban/issues/new?template=guestbook-entry.md">𝒉𝒆𝒓𝒆!</a>!</p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
 
