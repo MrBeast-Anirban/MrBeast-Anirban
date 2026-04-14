@@ -193,7 +193,7 @@ These need to be unloacked later
 </div>
 
 <!-- End Note -->
-<p>𝑾𝒂𝒏𝒕 𝒕𝒐 𝒍𝒆𝒂𝒗𝒆 𝒎𝒆 𝒂 𝒎𝒆𝒔𝒔𝒂𝒈𝒆, 𝒋𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 <a href="https://github.com/mrbeast-anirban/mrbeast-anirban/issues/new?template=guestbook-entry.md">𝒉𝒆𝒓𝒆!</a>!</p>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+<br><p>𝑾𝒂𝒏𝒕 𝒕𝒐 𝒍𝒆𝒂𝒗𝒆 𝒎𝒆 𝒂 𝒎𝒆𝒔𝒔𝒂𝒈𝒆, 𝒋𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 <a href="https://github.com/mrbeast-anirban/mrbeast-anirban/issues/new?template=guestbook-entry.md">𝒉𝒆𝒓𝒆!</a>!</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Get+back+to+Top&color=7E3ACE&style=flat&logo" alt="Get back to Top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="footer.svg"></div>
 
