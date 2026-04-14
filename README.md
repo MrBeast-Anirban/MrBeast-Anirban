@@ -8,19 +8,34 @@
 
 <!--- Profile Banner --->
 <!-- banner from this website -> https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885 -->
-<h1 align="center">
+<h3 align="center">
   <img src="mario-banner.gif">
-</h1>
+</h3>
 
 <!--- Animated Text --->
-
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=WhatsUp+Folks!;Welcome+To+My+Den"/>
   </a>
 </h1>
 
-<h1 align="center">Anirban Maitra</h1>
+
+<!-- Social Connections -->
+<div align="center">
+	<h1 align="center">Anirban Maitra</h1>
+    <a href="https://www.linkedin.com/in/maitraanirban" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/musafiranirban" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="mailto:maitraanirban25@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://x.com/AnirbanMaitra11" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+    </a>
+</div>
 <h3 align="center">I am a Data Scientist, studied Computer Science from Indian Institute of Technology and soon going to be an AI/ML Engineer.</h3>
 
 <!--Trophies Section-->   
@@ -47,22 +62,6 @@ These need to be unloacked later
 -->
 <br />
 
-
-<!-- Social Connections -->
-<div align="left">
-    <a href="https://www.linkedin.com/in/maitraanirban" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/musafiranirban" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="mailto:maitraanirban25@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://x.com/AnirbanMaitra11" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
-    </a>
-</div>
 
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
