@@ -15,14 +15,14 @@
 <!--- Animated Text --->
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=WhatsUp+Folks!;Welcome+To+My+Den"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=𝑾𝒉𝒂𝒕𝒔𝑼𝒑+𝑭𝒐𝒍𝒌𝒔!;𝑾𝒆𝒍𝒄𝒐𝒎𝒆+𝑻𝒐+𝑴𝒚+𝑫𝒆𝒏"/>
   </a>
 </h1>
 
 
 <!-- Social Connections -->
 <div align="center">
-	<h1 align="center">Anirban Maitra</h1>
+	<summary><h1>𝑨𝒏𝒊𝒓𝒃𝒂𝒏 𝑴𝒂𝒊𝒕𝒓𝒂</h1></summary>
     <a href="https://www.linkedin.com/in/maitraanirban" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -33,13 +33,13 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://x.com/AnirbanMaitra11" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/>
+        <img src="https://img.shields.io/badge/X-gray?style=for-the-badge&logo=X&logoColor=white"/>
     </a>
 </div>
-<h3 align="center">I am a Data Scientist, studied Computer Science from Indian Institute of Technology and soon going to be an AI/ML Engineer.</h3>
+<h3 align="center">𝑰 𝒂𝒎 𝒂 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒔𝒕, 𝒔𝒕𝒖𝒅𝒊𝒆𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒆 𝒐𝒇 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒂𝒏𝒅 𝒔𝒐𝒐𝒏 𝒈𝒐𝒊𝒏𝒈 𝒕𝒐 𝒃𝒆 𝒂𝒏 𝑨𝑰/𝑴𝑳 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓.</h3>
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
   <a href="https://github.com/mrbeast-anirban">
     <picture>
@@ -65,15 +65,15 @@ These need to be unloacked later
 
 <img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning about **Agentic AI, LLM, and Flutter.**
+- 🌱 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 **𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, 𝑳𝑳𝑴, 𝒂𝒏𝒅 𝑭𝒍𝒖𝒕𝒕𝒆𝒓**.
+ 
+- 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 **𝑫𝑺𝑨, 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎𝒔, 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒎𝒐𝒓𝒆........**
 
-- 💬 Ask me about **DSA, Computer Architecture, Operating Systems, Databases, Machine Learning, Deep Learning and more........**
+- 📫 𝑾𝒂𝒏𝒕 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 𝑬𝒎𝒂𝒊𝒍 𝒂𝒕 <a href="mailto:maitraanirban25@gmail.com"><img src="https://img.shields.io/badge/maitraanirban25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="12"/></a>
 
-- 📫 Want to reach me Email at **maitraanirban25@gmail.com**
+- ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **𝑳𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈**.
 
-- ⚡ Agenda of my Life:  **Learn something about everything and everything about something.**
-
-<h3 align="left">Social Connections :</h3>
+<h3 align="left">𝑺𝒐𝒄𝒊𝒂𝒍 𝑪𝒐𝒏𝒏𝒆𝒄𝒕𝒊𝒐𝒏𝒔 :</h3>
 <p align="left">
 <a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>&emsp;
 <a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>&emsp;
@@ -88,7 +88,7 @@ These need to be unloacked later
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝒂𝒏𝒅 𝑻𝒐𝒐𝒍𝒔 :</h3>
 <h4 align="left">&emsp;Programming Languages :</h4>
 
 &emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,c)
@@ -121,12 +121,12 @@ These need to be unloacked later
 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mrbeast-anirban&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -134,7 +134,7 @@ These need to be unloacked later
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>𝑺𝒕𝒓𝒆𝒂𝒌 𝑺𝒕𝒂𝒕𝒔</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mrbeast-anirban&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -144,7 +144,7 @@ These need to be unloacked later
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>𝑳𝒂𝒕𝒆𝒔𝒕 𝑷𝒓𝒐𝒋𝒆𝒄𝒕</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban/storyblok-mcp-server">
           <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
@@ -152,7 +152,7 @@ These need to be unloacked later
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
           <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=mrbeast-anirban&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
@@ -164,7 +164,7 @@ These need to be unloacked later
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒓𝒂𝒑𝒉</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbeast-anirban&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
