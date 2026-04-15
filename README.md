@@ -73,7 +73,7 @@ These need to be unloacked later
 
 - 📫 𝑾𝒂𝒏𝒕 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 𝑬𝒎𝒂𝒊𝒍 𝒂𝒕 <a href="mailto:maitraanirban25@gmail.com"><img src="https://img.shields.io/badge/maitraanirban25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="13"/></a>
 
-- ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **𝑳𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈**.
+- ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **$${\color{red}𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒏𝒅\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈}$$**.
 
 <br>
 <br>
@@ -178,23 +178,6 @@ These need to be unloacked later
 
 
 
-
-
-
-
-
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbeast-anirban&show_icons=true&locale=en&layout=compact" alt="mrbeast-anirban" />
-</div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrbeast-anirban&show_icons=true&locale=en" alt="mrbeast-anirban" />
-</div>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbeast-anirban" alt="mrbeast-anirban" />
-</div>
 
 <!-- End Note -->
 <br><p>𝑾𝒂𝒏𝒕 𝒕𝒐 𝒍𝒆𝒂𝒗𝒆 𝒎𝒆 𝒂 𝒎𝒆𝒔𝒔𝒂𝒈𝒆, 𝒋𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 <a href="https://github.com/mrbeast-anirban/mrbeast-anirban/issues/new?template=guestbook-entry.md">𝒉𝒆𝒓𝒆!</a>!</p>
