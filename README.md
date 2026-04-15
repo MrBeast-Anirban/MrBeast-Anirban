@@ -75,12 +75,14 @@ These need to be unloacked later
 
 - ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **𝑳𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈**.
 
-<h3 align="left">𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :</h3>
+<h3 align="left">𝐎𝐓𝐇𝐄𝐑 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :</h3>
 <p align="left">
+<!--
 <a href="https://twitter.com/anirbanmaitra11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirbanmaitra11" height="30" width="40" /></a>&emsp;
 <a href="https://linkedin.com/in/maitraanirban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitraanirban" height="30" width="40" /></a>&emsp;
-<a href="https://www.codechef.com/users/mr_beast_1999" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Wq4dyyhFKRz6&format=png&color=000000" alt="mr_beast_1999" height="40" width="40" /></a>&emsp;
-<a href="https://www.leetcode.com/anirban_maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirban_maitra" height="30" width="40" /></a>
+-->
+	<a href="https://www.codechef.com/users/mr_beast_1999" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Wq4dyyhFKRz6&format=png&color=000000" alt="mr_beast_1999" height="40" width="40" /></a>&emsp;
+	<a href="https://www.leetcode.com/anirban_maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirban_maitra" height="30" width="40" /></a>
 </p>
 
 <!-- Add skills animation -->
