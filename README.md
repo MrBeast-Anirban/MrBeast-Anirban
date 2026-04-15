@@ -152,8 +152,8 @@ These need to be unloacked later
     <td width="50%">
       <h3 align="center"><strong>𝐋𝐀𝐓𝐄𝐒𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓</strong></h3>
       <p align="center">
-        <a href="https://github.com/mrbeast-anirban/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=fcb603&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/mrbeast-anirban/DSA_Logic_Building ">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=DSA_Logic_Building&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=fcb603&text_color=ffffff" alt="anirban;s latest reprository"/>
         </a>
       </p>
     </td>
