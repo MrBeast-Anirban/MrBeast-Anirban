@@ -135,7 +135,7 @@ These need to be unloacked later
       <h3 align="center"><strong>𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mrbeast-anirban&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mrbeast-anirban&count_private=true&show_icons=true&theme=nightowl&bg_color=0,441350,ff0000&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" /> <!--0,000000,441350-->
         </a>
       </p>
     </td>
@@ -143,7 +143,7 @@ These need to be unloacked later
       <h3 align="center"><strong>𝐒𝐓𝐑𝐄𝐀𝐊 𝐒𝐓𝐀𝐓𝐒</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mrbeast-anirban&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mrbeast-anirban&theme=nightowl&background=0,441350,ff0000&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -153,7 +153,7 @@ These need to be unloacked later
       <h3 align="center"><strong>𝐋𝐀𝐓𝐄𝐒𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -161,7 +161,7 @@ These need to be unloacked later
       <h3 align="center"><strong>𝐓𝐎𝐏 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍𝐒</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=mrbeast-anirban&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=mrbeast-anirban&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,441350,ff0000&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -169,14 +169,12 @@ These need to be unloacked later
 </table>
 <br />
 
-<!--Contribution Graph-->
+
+<!-- Contribution Graph -->
 <h2 align="center">𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐆𝐑𝐀𝐏𝐇</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbeast-anirban&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
-
-
 
 
 <!-- End Note -->
