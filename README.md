@@ -76,7 +76,6 @@ These need to be unloacked later
 - ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **$${\color{red}𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒏𝒅\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈}$$**.
 
 <br>
-<br>
 <!--
 <h3 align="left">𝐎𝐓𝐇𝐄𝐑 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :</h3>
 <p align="left">
@@ -87,17 +86,18 @@ These need to be unloacked later
 </p>
 -->
 
+<!-- Skill and Proficienly section -->
+<h3 align="left">𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒 :</h3>
+<h4 align="left">&emsp;Programming Languages :</h4>
+
+&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,c)
+
 <!-- Add skills animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-
-<h3 align="left">𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒 𝐀𝐍𝐃 𝐓𝐎𝐎𝐋𝐒 :</h3>
-<h4 align="left">&emsp;Programming Languages :</h4>
-
-&emsp;&emsp;&emsp;![My Skills](https://skillicons.dev/icons?i=cpp,python,javascript,c)
 
 <h4 align="left">&emsp;Front-End Development :</h3>
 
