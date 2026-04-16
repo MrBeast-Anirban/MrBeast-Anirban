@@ -153,7 +153,7 @@ These need to be unloacked later
       <h3 align="center"><strong>𝐋𝐀𝐓𝐄𝐒𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban/DSA_Logic_Building ">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=YOUR_LATEST_REPO&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=fcb603&text_color=ffffff" alt="anirban;s latest reprository"/>
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=DSA_Logic_Building&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=fcb603&text_color=ffffff" alt="anirban;s latest reprository"/>
         </a>
       </p>
     </td>
