@@ -9,7 +9,7 @@
 <!--- Profile Banner --->
 <!-- banner from this website -> https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885 -->
 <h3 align="center">
-  <img src="mario-banner.gif">
+  <img src="media/mario-banner.gif">
 </h3>
 
 <!--- Animated Text --->
@@ -94,9 +94,9 @@ These need to be unloacked later
 
 <!-- Add skills animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./media/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./media/Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src="./media/Skills_Animation_White.gif">
 </picture>
 
 <h4 align="left">&emsp;Front-End Development :</h3>
@@ -180,5 +180,5 @@ These need to be unloacked later
 <!-- End Note -->
 <br><p>𝑾𝒂𝒏𝒕 𝒕𝒐 𝒍𝒆𝒂𝒗𝒆 𝒎𝒆 𝒂 𝒎𝒆𝒔𝒔𝒂𝒈𝒆, 𝒋𝒖𝒔𝒕 𝒄𝒍𝒊𝒄𝒌 <a href="https://github.com/mrbeast-anirban/mrbeast-anirban/issues/new?template=guestbook-entry.md">𝒉𝒆𝒓𝒆!</a>!</p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Get+back+to+Top&color=7E3ACE&style=flat&logo" alt="Get back to Top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="footer.svg"></div>
+<div align="center" ><img alt="" width="100%" src="media/footer.svg"></div>
 
