@@ -62,7 +62,7 @@ These need to be unloacked later
 -->
 <br />
 
-<img align="right" alt="Coding" width="400" left="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" left="200" src="media/programmer.gif">
 
 <!-- Whats Going On --> 
 <h3 align="left">𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐒𝐓𝐀𝐓𝐔𝐒</h3>
@@ -153,7 +153,7 @@ These need to be unloacked later
       <h3 align="center"><strong>𝐋𝐀𝐓𝐄𝐒𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓</strong></h3>
       <p align="center">
         <a href="https://github.com/mrbeast-anirban/DSA_Logic_Building ">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=DSA_Logic_Building&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=fcb603&text_color=ffffff" alt="anirban;s latest reprository"/>
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=mrbeast-anirban&repo=DSA_Logic_Building&theme=nightowl&show_owner=true&bg_color=0,441350,ff0000&title_color=fcb603&text_color=ffffff" alt="anirban's latest reprository"/>
         </a>
       </p>
     </td>
