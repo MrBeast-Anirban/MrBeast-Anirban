@@ -84,7 +84,7 @@ $$\color{red}{𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\spa
 	</td>
   </tr>
 </table>
-<br>
+
 
 
 <!--
