@@ -60,9 +60,11 @@ These need to be unloacked later
   </a>
 </p>
 -->
-<br />
 
-<img align="right" alt="Coding" width="400" left="200" src="media/programmer.gif">
+<br>
+<table>
+  <tr>
+    <td>
 
 <!-- Whats Going On --> 
 <h3 align="left">𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐒𝐓𝐀𝐓𝐔𝐒</h3>
@@ -73,10 +75,20 @@ These need to be unloacked later
 
 - 📫 𝑾𝒂𝒏𝒕 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆 𝑬𝒎𝒂𝒊𝒍 𝒂𝒕 <a href="mailto:maitraanirban25@gmail.com"><img src="https://img.shields.io/badge/maitraanirban25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" height="13"/></a>
 
-- ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆: **$${\color{red}𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈}$$**
-**$${\color{red}\space𝒂𝒏𝒅\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈}$$**.
+- ⚡ 𝑨𝒈𝒆𝒏𝒅𝒂 𝒐𝒇 𝒎𝒚 𝑳𝒊𝒇𝒆:  
+$$\color{red}{𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒏𝒅\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈}$$
 
+    </td>
+
+    <td>
+      <img src="media/programmer.gif" width="400"/>
+    </td>
+
+  </tr>
+</table>
 <br>
+
+
 <!--
 <h3 align="left">𝐎𝐓𝐇𝐄𝐑 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 :</h3>
 <p align="left">
