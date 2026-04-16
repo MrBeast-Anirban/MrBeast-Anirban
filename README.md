@@ -80,7 +80,7 @@ $$\color{red}{𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\spa
 
     </td>
     <td width="35%" align="center" valign="center">
-  		<img src="media/programmer.gif" width="280"/>
+  		<img src="media/programmer.gif" width="100%"/>
 	</td>
   </tr>
 </table>
