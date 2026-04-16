@@ -2,8 +2,11 @@ name: Update Latest Repo
 
 on:
   schedule:
-    - cron: "0 * * * *"  # runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 IMPORTANT (fixes push error)
 
 jobs:
   update-readme:
@@ -11,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4   # ✅ upgraded version
 
       - name: Get latest repo
         id: repo
