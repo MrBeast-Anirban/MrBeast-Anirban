@@ -79,11 +79,9 @@ These need to be unloacked later
 $$\color{red}{𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒏𝒅\space𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈\space𝒂𝒃𝒐𝒖𝒕\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈}$$
 
     </td>
-
-    <td width="35%" align="right" valign="top">
-      <img src="media/programmer.gif" width="280"/>
-    </td>
-
+    <td width="35%" align="center" valign="center">
+  		<img src="media/programmer.gif" width="280"/>
+	</td>
   </tr>
 </table>
 <br>
