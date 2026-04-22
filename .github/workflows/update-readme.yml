@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # 🔥 IMPORTANT (fixes push error)
 
 jobs:
   update-readme:
@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4   # ✅ upgraded version
 
-      - name: Get latest pushed repo
+      - name: Get latest repo
         id: repo
         run: |
-          repo=$(curl -s https://api.github.com/users/mrbeast-anirban/repos?sort=pushed\&per_page=1 | jq -r '.[0].name')
+          repo=$(curl -s https://api.github.com/users/mrbeast-anirban/repos?sort=created | jq -r '.[0].name')
           echo "repo=$repo" >> $GITHUB_OUTPUT
 
       - name: Replace in README
@@ -33,3 +33,4 @@ jobs:
           git add README.md
           git commit -m "Updated latest repo" || echo "No changes"
           git push
+
