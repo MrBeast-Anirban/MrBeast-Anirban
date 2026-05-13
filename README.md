@@ -192,3 +192,4 @@ $$\color{red}{𝑳𝒆𝒂𝒓𝒏\space𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈\spa
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Get+back+to+Top&color=7E3ACE&style=flat&logo" alt="Get back to Top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="media/footer.svg"></div>
 
+<!-- end -->
