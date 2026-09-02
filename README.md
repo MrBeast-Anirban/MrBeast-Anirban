@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/X-gray?style=for-the-badge&logo=X&logoColor=white"/>
     </a>
 </div>
-<h3 align="center">𝑰 𝒂𝒎 𝒂 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒔𝒕, 𝒔𝒕𝒖𝒅𝒊𝒆𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒆 𝒐𝒇 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒂𝒏𝒅 𝒔𝒐𝒐𝒏 𝒈𝒐𝒊𝒏𝒈 𝒕𝒐 𝒃𝒆 𝒂𝒏 𝑨𝑰/𝑴𝑳 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓.</h3>
+<h3 align="center">𝑰 𝒂𝒎 𝒂 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒔𝒕, 𝒔𝒕𝒖𝒅𝒊𝒆𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂𝒏 𝑰𝒏𝒔𝒕𝒊𝒕𝒖𝒕𝒆 𝒐𝒇 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚.</h3>
 
 <!--Trophies Section-->   
 <h2 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒</h2>
